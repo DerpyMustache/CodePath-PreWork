@@ -30,7 +30,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://giphy.com/gifs/jxR9qtDnWorkh0bxVK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<iframe width="420" height="315"
+        src="https://giphy.com/gifs/jxR9qtDnWorkh0bxVK">
+    </iframe>
+        
 
 ## Notes
 
