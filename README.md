@@ -39,7 +39,7 @@ Initially, I put all the storyboard objects under the LaunchScreen instead of Ma
 
 ## License
 
-    Copyright [2021] [Mo Kranwinkel]
+    Copyright 2021 Mo Kranwinkel
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
