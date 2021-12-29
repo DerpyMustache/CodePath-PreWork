@@ -30,6 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://giphy.com/gifs/jxR9qtDnWorkh0bxVK.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<iframe src="https://giphy.com/embed/jxR9qtDnWorkh0bxVK" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jxR9qtDnWorkh0bxVK">via GIPHY</a></p>
 
         
 
