@@ -53,10 +53,4 @@ Initially, I put all the storyboard objects under the LaunchScreen instead of Ma
     See the License for the specific language governing permissions and
     limitations under the License. 
 
-| Property  |Type    |Description           |
-| --------- | ------ | -------------------- |
-| ObjectID  | String | Unique name for user |
-| Stock     |String  | Unique name for stock|
-|  Price    | Number |cost of stock         |
-| Title     |String  | tile of article      |
-|Caption    | String |caption of article    |
+
