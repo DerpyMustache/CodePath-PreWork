@@ -53,5 +53,5 @@ Initially, I put all the storyboard objects under the LaunchScreen instead of Ma
     See the License for the specific language governing permissions and
     limitations under the License. 
 
-|test|table|formatting|
+| test|table|formatting|
 |----|---|---|
